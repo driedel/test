@@ -1,1 +1,1 @@
-<? echo "agora tá protegido";
+<? phpinfo(); 
